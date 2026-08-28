@@ -1,0 +1,32 @@
+name: Relato de falha
+description: Registre um comportamento incorreto e reproduzível.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto
+      description: Onde e quando a falha acontece?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Como reproduzir
+      description: Use somente dados fictícios.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Resultado esperado
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Segurança
+      options:
+        - label: Removi credenciais, dados pessoais e informações industriais reais.
+          required: true

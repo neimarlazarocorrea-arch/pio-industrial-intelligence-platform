@@ -1,0 +1,27 @@
+name: Proposta de melhoria
+description: Sugira uma melhoria com objetivo e critério de aceite.
+title: "[Melhoria]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema ou oportunidade
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Resultado proposto
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Critérios de aceite
+    validations:
+      required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: Riscos e dependências
