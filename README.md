@@ -216,4 +216,4 @@ PIO is a modular industrial intelligence architecture that separates synthetic d
 
 ---
 
-**Status:** candidato à publicação, condicionado à aprovação do Gate de Publicação e à validação dos demais arquivos do repositório.
+**Status:** publicação inicial concluída após aprovação do Gate de Publicação.
