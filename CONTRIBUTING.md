@@ -18,6 +18,10 @@ Use mensagens objetivas, por exemplo:
 - `docs: atualiza arquitetura`
 - `chore(ci): ajusta validação`
 
+## Licença das contribuições
+
+Ao enviar uma contribuição para este repositório, você concorda que ela será disponibilizada sob a [Apache License 2.0](LICENSE), conforme os termos aplicáveis a contribuições descritos nessa licença.
+
 ## Segurança
 
 Utilize somente dados sintéticos e identificadores genéricos. Não inclua informações de plantas, equipamentos ou redes reais.
