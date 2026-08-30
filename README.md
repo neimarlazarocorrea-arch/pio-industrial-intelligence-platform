@@ -156,6 +156,7 @@ Principais capacidades demonstradas:
 ├── .env.example      # exemplo seguro de configuração
 ├── CHANGELOG.md      # histórico de mudanças
 ├── CONTRIBUTING.md   # diretrizes de contribuição
+├── LICENSE           # licença Apache 2.0
 ├── README.md         # visão principal do projeto
 └── SECURITY.md       # política de segurança
 ```
@@ -209,6 +210,12 @@ Antes de qualquer publicação ou release, o projeto deve passar por:
 ## Escopo público
 
 Este projeto é um portfólio técnico e educacional baseado em problemas industriais genéricos. Ele demonstra decisões de arquitetura e engenharia sem reproduzir infraestrutura, lógica, dados ou propriedade intelectual de qualquer empresa ou planta real.
+
+## Licença
+
+Este repositório é disponibilizado sob a [Apache License 2.0](LICENSE). O uso, a modificação e a distribuição devem observar integralmente seus termos, incluindo a preservação dos avisos aplicáveis e a identificação de arquivos modificados.
+
+Copyright 2026 Neimar Lázaro de Souza Corrêa.
 
 ## English summary
 
