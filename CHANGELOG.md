@@ -2,7 +2,9 @@
 
 ## Não publicado
 
-Nenhuma alteração registrada.
+### Alterado
+
+- README atualizado para registrar a publicação da release `v0.1.0` e concluir o marco correspondente no roadmap.
 
 ## [0.1.0] - 2026-08-30
 
