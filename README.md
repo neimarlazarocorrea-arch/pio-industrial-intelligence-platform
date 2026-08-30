@@ -203,7 +203,7 @@ Antes de qualquer publicação ou release, o projeto deve passar por:
 - [ ] validar checkpoint, recuperação, backup e exportação;
 - [ ] implementar a camada Operação & Analytics;
 - [ ] publicar demonstrações reproduzíveis;
-- [ ] criar a primeira release pública após o Gate de Publicação.
+- [x] criar a primeira release pública após o Gate de Publicação ([v0.1.0](https://github.com/neimarlazarocorrea-arch/pio-industrial-intelligence-platform/releases/tag/v0.1.0)).
 
 ---
 
@@ -223,4 +223,4 @@ PIO is a modular industrial intelligence architecture that separates synthetic d
 
 ---
 
-**Status:** publicação inicial concluída após aprovação do Gate de Publicação.
+**Status:** primeira release pública [v0.1.0](https://github.com/neimarlazarocorrea-arch/pio-industrial-intelligence-platform/releases/tag/v0.1.0) publicada após aprovação do Gate de Publicação.
